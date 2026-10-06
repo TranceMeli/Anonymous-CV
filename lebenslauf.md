@@ -73,19 +73,25 @@ Mein langfristiges Ziel ist es, mich breit aufzustellen und mich im Full-Stack-B
 
 ![Trennlinie](https://raw.githubusercontent.com/TranceMeli/ColorPalette/main/divider.svg)
 
-## BILDUNGSWEG
+## Bildungsweg
 
-**Akademiestudium Fernuniversität Hagen** · *WS 2026/2027*  
-Propädeutikum · BGB Allgemeiner Teil
+**Akademiestudium · FernUniversität in Hagen**  
+WS 2026/2027
 
-**Studium der Informationswirtschaft** · *ohne Abschluss*  
-*Karlsruher Institut für Technologie (KIT)* · **10/2013, 03/2014**
+Propädeutikum  
+BGB Allgemeiner Teil
 
-**Studium des Wirtschaftsrechts** · *ohne Abschluss*
+**Studium der Informationswirtschaft · Karlsruher Institut für Technologie (KIT)**  
+10/2013 – 03/2014  
+Ohne Abschluss
 
-**Nachholen des Abiturs** · **03/2008, 08/2009**  
-*Wirtschaftsförderungsinstitut Wien*  
-Schwerpunkt: Betriebswirtschaft / Rechnungswesen
+**Studium des Wirtschaftsrechts · Wirtschaftsuniversität Wien**  
+03/2008 – 08/2009  
+Ohne Abschluss
+
+**Nachholen des Abiturs · Wirtschaftsförderungsinstitut Wien**  
+09/2005 – 03/2008  
+Schwerpunkt: Betriebswirtschaft und Rechnungswesen
 
 ![Trennlinie](https://raw.githubusercontent.com/TranceMeli/ColorPalette/main/divider.svg)
 
