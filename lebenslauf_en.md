@@ -76,19 +76,25 @@ My long term goal is to build a broad skill set and continue developing in the F
 
 ![Divider](https://raw.githubusercontent.com/TranceMeli/ColorPalette/main/divider.svg)
 
-## EDUCATIONAL BACKGROUND
+## Education
 
-**Academic studies at FernUniversität in Hagen** · *Winter semester 2026/2027*  
-Propädeutikum · General Part of the German Civil Code
+**Academic Studies · FernUniversität in Hagen**  
+Winter Semester 2026/2027
 
-**Information Economics** · *no degree*  
-*Karlsruhe Institute of Technology (KIT)* · **10/2013 to 03/2014**
+Preparatory Course  
+General Part of the German Civil Code (BGB)
 
-**Business Law** · *no degree*
+**Studies in Information Economics · Karlsruhe Institute of Technology (KIT)**  
+10/2013 – 03/2014  
+No degree completed
 
-**Completion of secondary school qualification** · **03/2008 to 08/2009**  
-*Wirtschaftsförderungsinstitut Wien*  
-Focus: Business Administration / Accounting
+**Studies in Business Law · Vienna University of Economics and Business**  
+03/2008 – 08/2009  
+No degree completed
+
+**Matura / Abitur Equivalent · Wirtschaftsförderungsinstitut Wien**  
+09/2005 – 03/2008  
+Focus: Business Administration and Accounting
 
 ![Divider](https://raw.githubusercontent.com/TranceMeli/ColorPalette/main/divider.svg)
 
